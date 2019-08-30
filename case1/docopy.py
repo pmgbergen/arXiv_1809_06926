@@ -3,7 +3,7 @@ import os
 
 if __name__ == "__main__":
 
-    folder_src = "/Home/siv28/afu082/porepy/examples/papers/arXiv_1809_06926/case1/"
+    folder_src = "./"
     folder_dst = folder_src + "/CSV/"
 
     solver_names = ["tpfa", "vem", "rt0", "mpfa"]
